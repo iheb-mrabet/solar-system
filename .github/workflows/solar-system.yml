@@ -9,7 +9,7 @@ on:
     
 jobs:
     unit-testing:
-        name: Unit Testing1
+        name: Unit Testing
         runs-on: ubuntu-latest
         steps:
         - name: Checkout Repository
